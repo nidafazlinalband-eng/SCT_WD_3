@@ -59,12 +59,12 @@ An interactive and responsive **Tic-Tac-Toe** web app built with **HTML, CSS, an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/tic-tac-toe-webapp.git
+   git clone https://github.com/nidafazlinalband-eng/SCT_WD_3.git
    ```
 
 2. Navigate into the project folder:
    ```bash
-   cd tic-tac-toe-webapp
+   cd SCT_WD_3
    ```
 
 3. Open `index.html` in any modern browser.
@@ -85,21 +85,6 @@ Tic-Tac-Toe/
 ├── styles.css      # App styling
 ├── script.js       # Game logic
 └── README.md       # Project description
-```
-
----
-
-### 🖼️ GitHub Description
-> **Tic-Tac-Toe Web App** — A fully responsive browser-based game built with HTML, CSS, and JavaScript. Play against a friend or challenge an intelligent computer opponent with mouse or keyboard controls. Sleek UI, responsive layout, and smooth gameplay.
-
----
-
-### 📸 Screenshot (Optional)
-Add a screenshot for your README (save a game screenshot and include below):
-
-```markdown
-![Tic Tac Toe Screenshot](assets/screenshot.png)
-```
 
 ---
 
