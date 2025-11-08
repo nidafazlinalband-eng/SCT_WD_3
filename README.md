@@ -5,6 +5,11 @@
 An interactive and responsive **Tic-Tac-Toe** web app built with **HTML, CSS, and JavaScript**. Play either **Player vs Player** or **Player vs Computer** modes using both **mouse clicks** and **keyboard controls**.
 
 ---
+## 🔗 Live Website:
+
+[https://nidafazlinalband-eng.github.io/TicTacToe/]
+
+---
 
 ### 🚀 Features
 - **Two Game Modes**:
