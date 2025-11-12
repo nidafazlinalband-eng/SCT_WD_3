@@ -7,7 +7,7 @@ An interactive and responsive **Tic-Tac-Toe** web app built with **HTML, CSS, an
 ---
 ## 🔗 Live Website:
 
-[https://nidafazlinalband-eng.github.io/TicTacToe/]
+[https://nidafazli-nalband.github.io/TicTacToe/]
 
 ---
 
